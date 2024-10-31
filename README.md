@@ -10,10 +10,7 @@ This project implements a Movie Recommendation System based on the Alternating L
 - [Introduction](#introduction)
 - [Algorithm](#algorithm)
 - [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 With the growing amount of content available online, users often find it challenging to choose movies that match their preferences. Recommendation systems help mitigate this issue by suggesting personalized options based on user data and patterns. This project focuses on a collaborative filtering approach using the ALS algorithm to deliver tailored movie suggestions.
